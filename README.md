@@ -1,0 +1,12 @@
+Lets you take pets out of the confirm screen on adopt me
+Use before it's patched
+Tutorial:
+1) run the script
+2) wait 30 seconds for it to load
+3) trade someone
+4) put in your good pets
+5) wait for them to accept first
+6) the script will accept the trade for you
+7) make them confirm first
+8) the script will take out the pets you put in and make you confirm!
+9) enjoy your pets!
