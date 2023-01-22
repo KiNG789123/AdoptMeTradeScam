@@ -12,3 +12,4 @@ Tutorial:
 9) enjoy your pets!
 
 if it doesn't work, try get someone to trade you instead. if it still doesnt work it may be patched or the script isnt supported on your executor idk
+Last Tested: 22/01/23
